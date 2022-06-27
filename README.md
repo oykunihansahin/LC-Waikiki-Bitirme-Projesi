@@ -5,3 +5,5 @@ Kod page object podelle yazıldı. En son Cart Page aşamasında baştan sona t�
 Otomasyonun baştan sona çalıştığını görmek için çalıştırmak için runner'da tags kısmına @CartPage yazılmalı.
 Çalıştırmak için Parallel.xml dosyasında run yapmak gerekli.
 
+Ayrıca ödevin ilk kısmı olan test case'leri "Test Senaryosu.xlsx" dosyasıyla görüntülenebilir.
+
